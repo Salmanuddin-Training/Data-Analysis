@@ -1,0 +1,2 @@
+We are performing File IO operstions in Python.
+Python is syntax less prog. language

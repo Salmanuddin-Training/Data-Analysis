@@ -1,0 +1,20 @@
+1 - Importing Python Libraries 
+2 - Importing the dataset 
+3 - Analyzing shape of Dataset 
+4 - Data Cleaning filling empty columns 
+5 - Data Description 
+6 - Data cleaning Duplicates 
+
+-------------------------------
+
+7 - Exploratory Data Analysis 
+8 - Customer Segmentation 
+9 - Sales Per Customer Segment 
+10 - Customer Loyalty 
+11 - Geographical Analysis of Customers and Sales 
+12 - Product Category Segmentation 
+13 - Sales Per Product Category 
+14 - Sales according to individual products 
+15 - Sales Trends Analysis 
+16 - Quarterly Sales 
+17 - Monthly Sales Trends for 2018

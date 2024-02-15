@@ -1,0 +1,189 @@
+,Country,Confirmed_Cases,Death_Toll,Recovered_Cases,world
+0,Afghanistan,38641,1420,31234,world
+1,Albania,11185,330,6494,world
+2,Algeria,48007,1605,33875,world
+3,Andorra,1344,53,943,world
+4,Angola,3335,132,1289,world
+5,Antigua and Barbuda,95,3,91,world
+6,Argentina,546481,11263,409771,world
+7,Armenia,45675,911,41605,world
+8,Australia,26651,810,23338,world
+9,Austria,32696,754,26579,world
+10,Azerbaijan,38172,559,35607,world
+11,Bahamas,2928,67,1319,world
+12,Bahrain,59586,211,53192,world
+13,Bangladesh,336044,4702,238271,world
+14,Barbados,180,7,158,world
+15,Belarus,73975,744,72547,world
+16,Belgium,92478,9923,18709,world
+17,Belize,1458,19,458,world
+18,Benin,2242,40,1793,world
+19,Bhutan,244,0,159,world
+20,Bolivia,125982,7297,82796,world
+21,Bosnia and Herzegovina,23138,690,15922,world
+22,Botswana,2252,10,546,world
+23,Brazil,4315687,131210,3723206,world
+24,Brunei,145,3,139,world
+25,Bulgaria,17891,717,12758,world
+26,Burkina Faso,1514,56,1127,world
+27,Burma,2796,16,676,world
+28,Burundi,471,1,374,world
+29,Cabo Verde,4711,44,4104,world
+30,Cambodia,275,0,274,world
+31,Cameroon,20009,415,18837,world
+32,Canada,138164,9220,121944,world
+33,Central African Republic,4749,62,1825,world
+34,Chad,1083,80,938,world
+35,Chile,432666,11895,404919,world
+36,China,90168,4734,85054,world
+37,Colombia,708964,22734,592820,world
+38,Comoros,456,7,415,world
+39,Congo (Brazzaville),4928,88,3887,world
+40,Congo (Kinshasa),10385,262,9719,world
+41,Costa Rica,55454,590,20928,world
+42,Cote d'Ivoire,18916,119,17960,world
+43,Croatia,13368,218,10721,world
+44,Cuba,4653,108,3878,world
+45,Cyprus,1523,22,1281,world
+46,Czechia,35401,453,21205,world
+47,Denmark,19989,630,16671,world
+48,Diamond Princess,712,13,651,world
+49,Djibouti,5394,61,5327,world
+50,Dominica,24,0,18,world
+51,Dominican Republic,103092,1953,76531,world
+52,Ecuador,116451,10864,91242,world
+53,Egypt,100856,5627,83261,world
+54,El Salvador,26851,782,17874,world
+55,Equatorial Guinea,4996,83,4490,world
+56,Eritrea,361,0,304,world
+57,Estonia,2655,64,2252,world
+58,Eswatini,5050,98,4188,world
+59,Ethiopia,63888,996,24493,world
+60,Fiji,32,2,24,world
+61,Finland,8557,337,7500,world
+62,France,402811,30902,90445,world
+63,Gabon,8643,53,7706,world
+64,Gambia,3376,102,1617,world
+65,Georgia,2075,19,1363,world
+66,Germany,260817,9352,231953,world
+67,Ghana,45434,286,44342,world
+68,Greece,13036,302,1347,world
+69,Grenada,24,0,24,world
+70,Guatemala,81658,2949,70403,world
+71,Guinea,10020,63,9251,world
+72,Guinea-Bissau,2275,39,1127,world
+73,Guyana,1812,54,1191,world
+74,Haiti,8478,219,6120,world
+75,Holy See,12,0,12,world
+76,Honduras,67136,2065,17760,world
+77,Hungary,11825,633,4058,world
+78,Iceland,2162,10,2085,world
+79,India,4754356,78586,3702595,world
+80,Indonesia,214746,8650,152458,world
+81,Iran,399940,23029,344516,world
+82,Iraq,286778,7941,221283,world
+83,Ireland,30730,1783,23364,world
+84,Israel,152722,1103,113496,world
+85,Italy,286297,35603,213191,world
+86,Jamaica,3623,40,1072,world
+87,Japan,75206,1441,65934,world
+88,Jordan,3062,22,2156,world
+89,Kazakhstan,106803,1634,100615,world
+90,Kenya,35969,619,22771,world
+91,"Korea, South",22176,358,18226,world
+92,Kosovo,12683,488,8788,world
+93,Kuwait,94211,558,84404,world
+94,Kyrgyzstan,44828,1063,40779,world
+95,Laos,23,0,21,world
+96,Latvia,1464,35,1248,world
+97,Lebanon,23669,239,7936,world
+98,Lesotho,1245,33,528,world
+99,Liberia,1316,82,1210,world
+100,Libya,22348,354,12100,world
+101,Liechtenstein,111,1,105,world
+102,Lithuania,3296,86,2070,world
+103,Luxembourg,7159,124,6421,world
+104,MS Zaandam,9,2,0,world
+105,Madagascar,15737,210,14349,world
+106,Malawi,5678,177,3724,world
+107,Malaysia,9868,128,9189,world
+108,Maldives,9052,31,7055,world
+109,Mali,2916,128,2276,world
+110,Malta,2274,15,1850,world
+111,Mauritania,7274,161,6804,world
+112,Mauritius,361,10,335,world
+113,Mexico,663973,70604,551113,world
+114,Moldova,42714,1117,30437,world
+115,Monaco,169,1,123,world
+116,Mongolia,311,0,298,world
+117,Montenegro,6530,118,4491,world
+118,Morocco,84435,1553,65867,world
+119,Mozambique,5040,35,2905,world
+120,Namibia,9604,98,5811,world
+121,Nepal,53120,336,37524,world
+122,Netherlands,84709,6291,2035,world
+123,New Zealand,1797,24,1676,world
+124,Nicaragua,4818,144,2913,world
+125,Niger,1178,69,1100,world
+126,Nigeria,56177,1078,44088,world
+127,North Macedonia,15694,646,13128,world
+128,Norway,12079,265,10371,world
+129,Oman,88337,762,83325,world
+130,Pakistan,301481,6379,289429,world
+131,Panama,101041,2155,73476,world
+132,Papua New Guinea,508,5,232,world
+133,Paraguay,27324,514,13679,world
+134,Peru,716670,30470,559321,world
+135,Philippines,257863,4292,187116,world
+136,Poland,73650,2182,59725,world
+137,Portugal,63310,1860,43894,world
+138,Qatar,121523,205,118475,world
+139,Romania,102386,4127,42811,world
+140,Russia,1053663,18426,871000,world
+141,Rwanda,4565,22,2544,world
+142,Saint Kitts and Nevis,17,0,17,world
+143,Saint Lucia,27,0,26,world
+144,Saint Vincent and the Grenadines,64,0,61,world
+145,San Marino,722,42,662,world
+146,Sao Tome and Principe,906,15,866,world
+147,Saudi Arabia,325050,4240,301836,world
+148,Senegal,14237,295,10373,world
+149,Serbia,32300,731,0,world
+150,Seychelles,139,0,136,world
+151,Sierra Leone,2096,72,1634,world
+152,Singapore,57357,27,56699,world
+153,Slovakia,5453,38,3114,world
+154,Slovenia,3603,135,2699,world
+155,Somalia,3376,98,2791,world
+156,South Africa,648214,15427,576423,world
+157,South Sudan,2578,49,1290,world
+158,Spain,566326,29747,150376,world
+159,Sri Lanka,3195,12,2983,world
+160,Sudan,13470,834,6731,world
+161,Suriname,4579,93,3788,world
+162,Sweden,86505,5846,0,world
+163,Switzerland,46704,2020,38500,world
+164,Syria,3506,152,827,world
+165,Taiwan*,498,7,475,world
+166,Tajikistan,9014,72,7782,world
+167,Tanzania,509,21,183,world
+168,Thailand,3473,58,3312,world
+169,Timor-Leste,27,0,25,world
+170,Togo,1555,37,1189,world
+171,Trinidad and Tobago,2993,51,766,world
+172,Tunisia,6635,107,1991,world
+173,Turkey,289635,6999,257731,world
+174,US,6485123,193693,2434658,world
+175,Uganda,4703,52,1998,world
+176,Ukraine,155558,3206,70881,world
+177,United Arab Emirates,78849,399,68983,world
+178,United Kingdom,367592,41712,1880,world
+179,Uruguay,1780,45,1502,world
+180,Uzbekistan,46721,384,43359,world
+181,Venezuela,59630,477,47729,world
+182,Vietnam,1060,35,910,world
+183,West Bank and Gaza,29906,210,19979,world
+184,Western Sahara,10,1,8,world
+185,Yemen,2009,582,1211,world
+186,Zambia,13466,312,12007,world
+187,Zimbabwe,7508,224,5675,world
